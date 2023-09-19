@@ -51,6 +51,8 @@ namespace Calculator
             {
                 Console.WriteLine(result_text + (a - b) );
             }
+            else 
+                { Console.WriteLine("běž zpátky do první třídy :))"); }
             /*
          * Pokud se budes chtit na neco zeptat a zrovna budu pomahat jinde, zkus se zeptat ChatGPT ;) - https://chat.openai.com/
          * 
