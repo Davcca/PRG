@@ -5,3 +5,10 @@
 \\Mac\iCloud\dev\PRG\PRG\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 \\Mac\iCloud\dev\PRG\PRG\Calculator\Calculator\obj\Debug\Calculator.exe
 \\Mac\iCloud\dev\PRG\PRG\Calculator\Calculator\obj\Debug\Calculator.pdb
+\\Mac\iCloud\dev\PRG_seminar\PRG\Calculator\Calculator\bin\Debug\Calculator.exe.config
+\\Mac\iCloud\dev\PRG_seminar\PRG\Calculator\Calculator\bin\Debug\Calculator.exe
+\\Mac\iCloud\dev\PRG_seminar\PRG\Calculator\Calculator\bin\Debug\Calculator.pdb
+\\Mac\iCloud\dev\PRG_seminar\PRG\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+\\Mac\iCloud\dev\PRG_seminar\PRG\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\dev\PRG_seminar\PRG\Calculator\Calculator\obj\Debug\Calculator.exe
+\\Mac\iCloud\dev\PRG_seminar\PRG\Calculator\Calculator\obj\Debug\Calculator.pdb

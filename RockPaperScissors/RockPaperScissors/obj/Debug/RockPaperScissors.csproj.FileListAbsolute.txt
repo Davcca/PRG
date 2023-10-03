@@ -1,0 +1,7 @@
+\\Mac\iCloud\dev\PRG_seminar\PRG\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.AssemblyReference.cache
+\\Mac\iCloud\dev\PRG_seminar\PRG\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\dev\PRG_seminar\PRG\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+\\Mac\iCloud\dev\PRG_seminar\PRG\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+\\Mac\iCloud\dev\PRG_seminar\PRG\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+\\Mac\iCloud\dev\PRG_seminar\PRG\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+\\Mac\iCloud\dev\PRG_seminar\PRG\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb

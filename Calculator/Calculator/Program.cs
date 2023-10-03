@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
+using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -18,17 +19,18 @@ namespace Calculator
 
         {
             string result_text = "Výsledek je:\n";
-            Console.WriteLine("první číslo");
-            float a = float.Parse(Console.ReadLine());
+           
+            while (true) {
+                Console.WriteLine("první číslo");
+                float a = float.Parse(Console.ReadLine());
 
-            Console.WriteLine("zadej funkci");
-            string x = Convert.ToString(Console.ReadLine());
+                Console.WriteLine("zadej funkci");
+                string x = Convert.ToString(Console.ReadLine());
 
-            Console.Write("druhé číslo\n");
-            float b = float.Parse(Console.ReadLine());
+                Console.Write("druhé číslo\n");
+                float b = float.Parse(Console.ReadLine());
 
-
-            if (x == "+") { 
+                if (x == "+") { 
                 Console.WriteLine(result_text + (a + b));
             }
 
@@ -42,17 +44,39 @@ namespace Calculator
                 Console.WriteLine(result_text + (a / b));
             }
 
-            /*if (x == "^")
+            if (x == "^")
             {
-                Console.WriteLine(result_text + (a ^ b));
+                Console.WriteLine(result_text + (Math.Pow(a,b)));
             }
-            */
+            
             if (x == "-")
             {
                 Console.WriteLine(result_text + (a - b) );
             }
-            else 
-                { Console.WriteLine("běž zpátky do první třídy :))"); }
+            if (x == "log")
+            {
+                Console.WriteLine(result_text + (Math.Log(a, b)));
+            }
+            if (x == "¨sin")
+            {
+                Console.WriteLine(result_text + (Math.Sin(a)));
+            }
+            if (x == "cos")
+            {
+                Console.WriteLine(result_text + (Math.Log(a)));
+            }
+             if (x == "tan")
+            {
+                Console.WriteLine(result_text + (Math.Tan(a)));
+            }
+              if (x == "log10")
+            {
+                Console.WriteLine(result_text + (Math.Log10(a)));
+            }
+            if (a < 10 & b < 10 & x != "log" & x != "^")
+                { Console.WriteLine("běž zpátky do první třídy počítat takovéhle příklady :))"); }
+             Console.ReadKey();
+             }
             /*
          * Pokud se budes chtit na neco zeptat a zrovna budu pomahat jinde, zkus se zeptat ChatGPT ;) - https://chat.openai.com/
          * 
@@ -77,7 +101,7 @@ namespace Calculator
 
             //Tento komentar smaz a misto nej zacni psat svuj prdacky kod.
 
-            Console.ReadKey(); //Toto nech jako posledni radek, aby se program neukoncil ihned, ale cekal na stisk klavesy od uzivatele.
+         //Toto nech jako posledni radek, aby se program neukoncil ihned, ale cekal na stisk klavesy od uzivatele.
         }
     }
 }
