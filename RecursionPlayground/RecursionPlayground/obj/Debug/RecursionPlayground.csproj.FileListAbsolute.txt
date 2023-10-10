@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\RecursionPlayground\RecursionPlayground\obj\Debug\RecursionPlayground.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\RecursionPlayground\RecursionPlayground\obj\Debug\RecursionPlayground.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\RecursionPlayground\RecursionPlayground\bin\Debug\RecursionPlayground.exe.config
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\RecursionPlayground\RecursionPlayground\bin\Debug\RecursionPlayground.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\RecursionPlayground\RecursionPlayground\bin\Debug\RecursionPlayground.pdb
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\RecursionPlayground\RecursionPlayground\obj\Debug\RecursionPlayground.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\RecursionPlayground\RecursionPlayground\obj\Debug\RecursionPlayground.pdb
