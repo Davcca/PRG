@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\SearchPlayground\SearchPlayground\obj\Debug\SearchPlayground.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\SearchPlayground\SearchPlayground\obj\Debug\SearchPlayground.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\SearchPlayground\SearchPlayground\bin\Debug\SearchPlayground.exe.config
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\SearchPlayground\SearchPlayground\bin\Debug\SearchPlayground.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\SearchPlayground\SearchPlayground\bin\Debug\SearchPlayground.pdb
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\SearchPlayground\SearchPlayground\obj\Debug\SearchPlayground.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\SearchPlayground\SearchPlayground\obj\Debug\SearchPlayground.pdb

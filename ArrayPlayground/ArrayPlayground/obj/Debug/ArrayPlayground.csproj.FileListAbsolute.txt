@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\ArrayPlayground\ArrayPlayground\bin\Debug\ArrayPlayground.exe.config
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\ArrayPlayground\ArrayPlayground\bin\Debug\ArrayPlayground.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\ArrayPlayground\ArrayPlayground\bin\Debug\ArrayPlayground.pdb
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\ArrayPlayground\ArrayPlayground\obj\Debug\ArrayPlayground.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\ArrayPlayground\ArrayPlayground\obj\Debug\ArrayPlayground.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\ArrayPlayground\ArrayPlayground\obj\Debug\ArrayPlayground.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\ArrayPlayground\ArrayPlayground\obj\Debug\ArrayPlayground.pdb
