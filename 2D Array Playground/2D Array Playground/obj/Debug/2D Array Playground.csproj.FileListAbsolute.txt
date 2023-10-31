@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\2D Array Playground\2D Array Playground\bin\Debug\2D Array Playground.exe.config
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\2D Array Playground\2D Array Playground\bin\Debug\2D Array Playground.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\2D Array Playground\2D Array Playground\bin\Debug\2D Array Playground.pdb
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\2D Array Playground\2D Array Playground\obj\Debug\2D Array Playground.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\2D Array Playground\2D Array Playground\obj\Debug\2D Array Playground.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\2D Array Playground\2D Array Playground\obj\Debug\2D Array Playground.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\2D Array Playground\2D Array Playground\obj\Debug\2D Array Playground.pdb
