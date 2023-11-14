@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\SortingPlayground\SortingPlayground\bin\Debug\SortingPlayground.exe.config
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\SortingPlayground\SortingPlayground\bin\Debug\SortingPlayground.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\SortingPlayground\SortingPlayground\bin\Debug\SortingPlayground.pdb
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\SortingPlayground\SortingPlayground\obj\Debug\SortingPlayground.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\SortingPlayground\SortingPlayground\obj\Debug\SortingPlayground.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\SortingPlayground\SortingPlayground\obj\Debug\SortingPlayground.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\SortingPlayground\SortingPlayground\obj\Debug\SortingPlayground.pdb
