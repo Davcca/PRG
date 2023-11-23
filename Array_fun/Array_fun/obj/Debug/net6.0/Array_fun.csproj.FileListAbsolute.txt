@@ -1,0 +1,14 @@
+C:\Users\davidprochazka\source\repos\Array_fun\Array_fun\bin\Debug\net6.0\Array_fun.exe
+C:\Users\davidprochazka\source\repos\Array_fun\Array_fun\bin\Debug\net6.0\Array_fun.deps.json
+C:\Users\davidprochazka\source\repos\Array_fun\Array_fun\bin\Debug\net6.0\Array_fun.runtimeconfig.json
+C:\Users\davidprochazka\source\repos\Array_fun\Array_fun\bin\Debug\net6.0\Array_fun.dll
+C:\Users\davidprochazka\source\repos\Array_fun\Array_fun\bin\Debug\net6.0\Array_fun.pdb
+C:\Users\davidprochazka\source\repos\Array_fun\Array_fun\obj\Debug\net6.0\Array_fun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davidprochazka\source\repos\Array_fun\Array_fun\obj\Debug\net6.0\Array_fun.AssemblyInfoInputs.cache
+C:\Users\davidprochazka\source\repos\Array_fun\Array_fun\obj\Debug\net6.0\Array_fun.AssemblyInfo.cs
+C:\Users\davidprochazka\source\repos\Array_fun\Array_fun\obj\Debug\net6.0\Array_fun.csproj.CoreCompileInputs.cache
+C:\Users\davidprochazka\source\repos\Array_fun\Array_fun\obj\Debug\net6.0\Array_fun.dll
+C:\Users\davidprochazka\source\repos\Array_fun\Array_fun\obj\Debug\net6.0\refint\Array_fun.dll
+C:\Users\davidprochazka\source\repos\Array_fun\Array_fun\obj\Debug\net6.0\Array_fun.pdb
+C:\Users\davidprochazka\source\repos\Array_fun\Array_fun\obj\Debug\net6.0\Array_fun.genruntimeconfig.cache
+C:\Users\davidprochazka\source\repos\Array_fun\Array_fun\obj\Debug\net6.0\ref\Array_fun.dll
