@@ -39,7 +39,7 @@ class Board
                 }
                 else //51% matter, 49% anti-matter, 42
                 {
-                    Console.Write(" "); 
+                    Console.Write(" ");
                 }
             }
             Console.WriteLine();
@@ -52,7 +52,7 @@ class Snake
 {
     public int X { get; set; } //prepearing vars
     public int Y { get; set; }
-    public List<(int, int)> Body { get; } 
+    public List<(int, int)> Body { get; }
 
     public Snake(int startX, int startY)
     {
@@ -95,7 +95,7 @@ class Fruit
     {
         get; private set;
     }
-    public int Y 
+    public int Y
     {
         get; private set;
     }
@@ -163,18 +163,18 @@ class Game //tie it all together
                 Console.WriteLine("Game Over");
                 Console.WriteLine("Score: " + score);
                 Process.Start(new ProcessStartInfo("https://i.kym-cdn.com/photos/images/original/000/041/494/1241026091_youve_been_rickrolled.gif") { UseShellExecute = true }); //special sauce
-           
-          
+
+
                 break;
             }
 
-            Thread.Sleep(100); // amount of caffine snake receives
+            Thread.Sleep(200); // amount of sedatives snake receives
         }
     }
 
     private bool IsGameOver()
     {
-        return snake.X <= 0 || snake.Y <= 0 || snake.X >= board.Width - 1 || snake.Y >= board.Height - 1 || snake.Body.GetRange(1, snake.Body.Count - 1).Contains((snake.X, snake.Y));
+        return snake.X <= 0 || snake.Y <= 0 || snake.X >= board.Width - 1 || snake.Y >= board.Height - 1 || snake.Body.GetRange(1, snake.Body.Count - 1).Contains((snake.X, snake.Y)); //wannabe collision detection
 
     }
 
@@ -188,3 +188,5 @@ class Program
         game.Run();
     }
 }
+
+// shout out to https://www.gamedev.net/blogs/entry/2266700-c-console-snake-game/ && ChatGPT for helping with some really annoying bugs
