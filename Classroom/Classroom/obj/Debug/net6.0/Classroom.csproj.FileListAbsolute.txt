@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Classroom\Classroom\obj\Debug\net6.0\Classroom.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Classroom\Classroom\obj\Debug\net6.0\Classroom.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Classroom\Classroom\obj\Debug\net6.0\Classroom.AssemblyInfo.cs
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Classroom\Classroom\obj\Debug\net6.0\Classroom.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Classroom\Classroom\bin\Debug\net6.0\Classroom.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Classroom\Classroom\bin\Debug\net6.0\Classroom.deps.json
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Classroom\Classroom\bin\Debug\net6.0\Classroom.runtimeconfig.json
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Classroom\Classroom\bin\Debug\net6.0\Classroom.dll
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Classroom\Classroom\bin\Debug\net6.0\Classroom.pdb
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Classroom\Classroom\obj\Debug\net6.0\Classroom.dll
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Classroom\Classroom\obj\Debug\net6.0\refint\Classroom.dll
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Classroom\Classroom\obj\Debug\net6.0\Classroom.pdb
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Classroom\Classroom\obj\Debug\net6.0\Classroom.genruntimeconfig.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Classroom\Classroom\obj\Debug\net6.0\ref\Classroom.dll

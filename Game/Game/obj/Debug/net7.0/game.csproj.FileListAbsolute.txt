@@ -1,0 +1,15 @@
+C:\Users\davidprochazka\source\repos\Game\game\obj\Debug\net7.0\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davidprochazka\source\repos\Game\game\obj\Debug\net7.0\game.AssemblyInfoInputs.cache
+C:\Users\davidprochazka\source\repos\Game\game\obj\Debug\net7.0\game.AssemblyInfo.cs
+C:\Users\davidprochazka\source\repos\Game\game\obj\Debug\net7.0\game.csproj.CoreCompileInputs.cache
+C:\Users\davidprochazka\source\repos\Game\game\bin\Debug\net7.0\game.exe
+C:\Users\davidprochazka\source\repos\Game\game\bin\Debug\net7.0\game.dll.config
+C:\Users\davidprochazka\source\repos\Game\game\bin\Debug\net7.0\game.deps.json
+C:\Users\davidprochazka\source\repos\Game\game\bin\Debug\net7.0\game.runtimeconfig.json
+C:\Users\davidprochazka\source\repos\Game\game\bin\Debug\net7.0\game.dll
+C:\Users\davidprochazka\source\repos\Game\game\bin\Debug\net7.0\game.pdb
+C:\Users\davidprochazka\source\repos\Game\game\obj\Debug\net7.0\game.dll
+C:\Users\davidprochazka\source\repos\Game\game\obj\Debug\net7.0\refint\game.dll
+C:\Users\davidprochazka\source\repos\Game\game\obj\Debug\net7.0\game.pdb
+C:\Users\davidprochazka\source\repos\Game\game\obj\Debug\net7.0\game.genruntimeconfig.cache
+C:\Users\davidprochazka\source\repos\Game\game\obj\Debug\net7.0\ref\game.dll
