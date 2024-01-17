@@ -5,8 +5,8 @@ using System.Threading;
 
 class Board
 {
-    public int Width;
-    public int Height;
+    public int Width { get; }
+    public int Height { get; }
 
     public Board(int width, int height)
     {
@@ -39,7 +39,7 @@ class Board
                 }
                 else //51% matter, 49% anti-matter, 42
                 {
-                    Console.Write(" ");
+                    Console.Write(" "); 
                 }
             }
             Console.WriteLine();
@@ -50,9 +50,9 @@ class Board
 
 class Snake
 {
-    public int X; //prepearing vars
-    public int Y;
-    public List<(int, int)> Body;
+    public int X { get; set; } //prepearing vars
+    public int Y { get; set; }
+    public List<(int, int)> Body { get; } 
 
     public Snake(int startX, int startY)
     {
@@ -91,11 +91,14 @@ class Snake
 
 class Fruit
 {
-    public int X;
-
-
-    public int Y;
-   
+    public int X
+    {
+        get; private set;
+    }
+    public int Y 
+    {
+        get; private set;
+    }
     public Fruit(int boardWidth, int boardHeight)
     {
         Respawn(boardWidth, boardHeight);
@@ -160,8 +163,8 @@ class Game //tie it all together
                 Console.WriteLine("Game Over");
                 Console.WriteLine("Score: " + score);
                 Process.Start(new ProcessStartInfo("https://i.kym-cdn.com/photos/images/original/000/041/494/1241026091_youve_been_rickrolled.gif") { UseShellExecute = true }); //special sauce
-
-
+           
+          
                 break;
             }
 
