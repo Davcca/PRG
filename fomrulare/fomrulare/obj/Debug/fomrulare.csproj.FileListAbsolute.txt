@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\fomrulare\fomrulare\obj\Debug\fomrulare.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\fomrulare\fomrulare\obj\Debug\fomrulare.Properties.Resources.resources
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\fomrulare\fomrulare\obj\Debug\fomrulare.csproj.GenerateResource.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\fomrulare\fomrulare\obj\Debug\fomrulare.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\fomrulare\fomrulare\bin\Debug\fomrulare.exe.config
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\fomrulare\fomrulare\bin\Debug\fomrulare.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\fomrulare\fomrulare\bin\Debug\fomrulare.pdb
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\fomrulare\fomrulare\obj\Debug\fomrulare.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\fomrulare\fomrulare\obj\Debug\fomrulare.pdb
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\fomrulare\fomrulare\obj\Debug\formulare.Form.resources

@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\formulare_for_fun\formulare_for_fun\bin\Debug\formulare_for_fun.exe.config
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\formulare_for_fun\formulare_for_fun\bin\Debug\formulare_for_fun.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\formulare_for_fun\formulare_for_fun\bin\Debug\formulare_for_fun.pdb
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\formulare_for_fun\formulare_for_fun\obj\Debug\formulare_for_fun.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\formulare_for_fun\formulare_for_fun\obj\Debug\formulare_for_fun.Form1.resources
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\formulare_for_fun\formulare_for_fun\obj\Debug\formulare_for_fun.Properties.Resources.resources
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\formulare_for_fun\formulare_for_fun\obj\Debug\formulare_for_fun.csproj.GenerateResource.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\formulare_for_fun\formulare_for_fun\obj\Debug\formulare_for_fun.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\formulare_for_fun\formulare_for_fun\obj\Debug\formulare_for_fun.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\formulare_for_fun\formulare_for_fun\obj\Debug\formulare_for_fun.pdb
