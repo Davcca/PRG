@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Malování new and improved\bin\Debug\Malování new and improved.exe.config
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Malování new and improved\bin\Debug\Malování new and improved.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Malování new and improved\bin\Debug\Malování new and improved.pdb
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Malování new and improved\obj\Debug\Malování new and improved.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Malování new and improved\obj\Debug\Malování_new_and_improved.pic.resources
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Malování new and improved\obj\Debug\Malování_new_and_improved.Properties.Resources.resources
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Malování new and improved\obj\Debug\Malování new and improved.csproj.GenerateResource.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Malování new and improved\obj\Debug\Malování new and improved.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Malování new and improved\obj\Debug\Malování new and improved.exe
+\\Mac\Home\Documents\dev\PRG_seminar\PRG\Malování new and improved\obj\Debug\Malování new and improved.pdb
